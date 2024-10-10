@@ -1,3 +1,1 @@
-visit URL:
-  
-  https://buscanoticiasporgenero.netlify.app
+#### Servicio para buscar noticias en la web
